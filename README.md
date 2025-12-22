@@ -1,5 +1,5 @@
 # Ultrasounds Tutored Project
-![Python](https://img.shields.io/badge/Python-3.13-blue?logo=python)  [![GitHub](https://img.shields.io/badge/GitHub-Profile-black?logo=github)](https://github.com/Sili0) [![License](https://www.gnu.org/graphics/agplv3-88x31.png)]([https://mit-license.org/](https://www.gnu.org/licenses/agpl-3.0.en.html#license-text)) 
+![Python](https://img.shields.io/badge/Python-3.13-blue?logo=python)  [![GitHub](https://img.shields.io/badge/GitHub-Profile-black?logo=github)](https://github.com/Sili0) [![License](https://www.gnu.org/graphics/agplv3-88x31.png)](https://www.gnu.org/licenses/agpl-3.0.en.html#license-text)
 ## Description
 _Repository containing the data and code (**AnimPlot**) regarding the tutored project about ultrasound propagation._
 
