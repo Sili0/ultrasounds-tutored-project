@@ -26,6 +26,11 @@ python3 AnimPlot.py
 
 Or use the pre-compiled version for your system, then follow the instructions. If you want to test it with our data, you can download the source code, then use one of the acquisitions folders in the raw_data section.
 
+### Screenshots
+
+<img width="300" height="600" alt="Capture d’écran 2025-12-24 à 15 02 54" src="https://github.com/user-attachments/assets/92fa028a-643a-451e-a466-7f98353d21fa" /> <img width="600" height="400" alt="Capture d’écran 2025-12-24 à 15 03 58" src="https://github.com/user-attachments/assets/36f3d1db-761b-475b-b6ad-55c2280abbec" />
+
+
 ## Data
 Each acquisition is named by the experimental parameters used, and contains the list of the .CSV containing the raw data acquired with [OpenWave-1KB](https://github.com/OpenWave-GW/OpenWave-1KB). As the version isn't written for Python 3, we used this [fork](https://github.com/mamin27/OpenWave-1KB) to be able to run it on macOS, with some tweaking on the libraries used.
 
