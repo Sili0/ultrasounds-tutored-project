@@ -28,7 +28,7 @@ Or use the pre-compiled version for your system, then follow the instructions. I
 
 ### Screenshots
 
-<img width="200" height="600" alt="Capture d’écran 2025-12-24 à 15 02 54" src="https://github.com/user-attachments/assets/92fa028a-643a-451e-a466-7f98353d21fa" /> <img width="500" height="400" alt="Capture d’écran 2025-12-24 à 15 03 58" src="https://github.com/user-attachments/assets/36f3d1db-761b-475b-b6ad-55c2280abbec" />
+<img width="300" height="400" alt="Capture d’écran 2025-12-24 à 15 02 54" src="https://github.com/user-attachments/assets/92fa028a-643a-451e-a466-7f98353d21fa" /> <img width="500" height="400" alt="Capture d’écran 2025-12-24 à 15 03 58" src="https://github.com/user-attachments/assets/36f3d1db-761b-475b-b6ad-55c2280abbec" />
 
 
 ## Data
